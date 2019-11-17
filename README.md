@@ -13,5 +13,5 @@
  (1) Downlaod tesseract and language:<br/>
     sudo apt-get install tesseract-ocr-[rus]<br/>
  (2) Download Python wrapper<br/>
- ## Directory Structure
+ ##
     pip install pytesseract<br/>
