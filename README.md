@@ -1,7 +1,7 @@
  # Detect Russian Word: 'модули иртибот'
  #Download pytesseract for OCR (optical character recognition)
 
- # -----Using Mac and Homebrew-----add<br/>
+ # -----Using Mac and Homebrew-----<br/>
  #(1) Downlaod tesseract:<br/>
  	brew install tesseract<br/>
  #(2) Download tesseract-lang (to use Russian)<br/>
